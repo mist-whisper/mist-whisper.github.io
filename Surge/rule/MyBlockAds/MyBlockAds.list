@@ -1,9 +1,5 @@
-#规则数量:183
-#不支持的规则数量:0
-#已排除的规则数量:0
-
-#-----------------以下为解析后的规则-----------------#
-
+# NAME: MyBlockAds
+#UPDATED: 2024-06-26 03:02:30
 DOMAIN,dns.alidns.com
 DOMAIN,ems.youku.com
 DOMAIN,hudong.alicdn.com
