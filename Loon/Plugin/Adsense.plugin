@@ -1,6 +1,6 @@
 #!name=广告联盟去广告
 #!desc=快手联盟,优量汇,穿山甲
-#!openUrl=https://github.com/app2smile/rules
+#!openUrl=https://github.com/mist-whisper/mist-whisper.github.io/blob/main/Loon
 
 [Mitm]
 hostname = api-access.pangolin-sdk-toutiao.com, mi.gdt.qq.com, open.e.kuaishou.com
