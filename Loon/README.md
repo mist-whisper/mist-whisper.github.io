@@ -10,13 +10,13 @@
 * [小红书去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/RedPaper_remove_ads.plugin)
 * [可莉广告过滤器](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Remove_ads_by_keli.plugin)
 * [Soul去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Soul_remove_ads.plugin)
+* [APP启动页去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Starting_remove_ads.plugin)
 * [淘宝去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Taobao_remove_ads.plugin)
 * [航旅纵横去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Umetrip_remove_ads.plugin)
 * [微博去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Weibo_remove_ads.plugin)
 * [微信公众号去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Wexin_Official_Accounts_remove_ads.plugin)
 * [YouTube去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/YouTube_remove_ads.plugin)
 * [知乎去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Zhihu_remove_ads.plugin)
-* [APP启动页去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Starting_remove_ads.plugin)
 **_点击下方链接,查看去广告详情_**
 ## 广告联盟
 > 去除快手联盟,优量汇,穿山甲广告
@@ -99,6 +99,14 @@
   </tr>
 </table>
 
+## APP启动页去广告
+> APP启动页去广告
+<table>
+  <tr>
+    <td>https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Starting_remove_ads.plugin</td>
+  </tr>
+</table>
+
 ## 淘宝去广告
 > 过滤淘宝开屏广告
 <table>
@@ -144,13 +152,5 @@
 <table>
   <tr>
     <td>https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Zhihu_remove_ads.plugin</td>
-  </tr>
-</table>
-
-## APP启动页去广告
-> APP启动页去广告
-<table>
-  <tr>
-    <td>https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Starting_remove_ads.plugin</td>
   </tr>
 </table>
