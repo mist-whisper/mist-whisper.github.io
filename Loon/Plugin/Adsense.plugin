@@ -1,6 +1,6 @@
-#!name=广告联盟去广告
-#!desc=移除快手联盟,优量汇,穿山甲广告
-#!openUrl=https://github.com/mist-whisper/mist-whisper.github.io/blob/main/Loon
+#!name = 广告联盟去广告
+#!desc = 移除快手联盟,优量汇,穿山甲广告
+#!openUrl = https://github.com/mist-whisper/mist-whisper.github.io/blob/main/Loon
 
 [Mitm]
 hostname = api-access.pangolin-sdk-toutiao.com, mi.gdt.qq.com, open.e.kuaishou.com
