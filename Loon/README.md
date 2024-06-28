@@ -16,7 +16,7 @@
 * [微博去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Weibo_remove_ads.plugin)
 * [微信公众号去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Wexin_Official_Accounts_remove_ads.plugin)
 * [YouTube去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/YouTube_remove_ads.plugin)
-* [知乎去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Zhihu_remove_ads.plugin)
+* [知乎去广告](https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Zhihu_remove_ads.plugin)<br>
 **_点击下方链接,查看去广告详情_**
 ## 广告联盟
 > 去除快手联盟,优量汇,穿山甲广告
