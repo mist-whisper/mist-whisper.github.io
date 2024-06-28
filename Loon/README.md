@@ -8,7 +8,6 @@
 
 <table>
   <tr>
-    <td>Loon</td>
     <td>https://raw.githubusercontent.com/mist-whisper/mist-whisper.github.io/main/Loon/Plugin/Adsense.plugin</td>
   </tr>
 </table>
